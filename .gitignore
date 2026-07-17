@@ -1,0 +1,11 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Local build directories
+build/
+
+# Workspace scratch area
+work/
